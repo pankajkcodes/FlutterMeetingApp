@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551809449771",
+    "project_id": "meetingmatebypankaj",
+    "storage_bucket": "meetingmatebypankaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551809449771:android:2ef5c405148bfa4c844f6e",
+        "android_client_info": {
+          "package_name": "com.pankajkcodes.meetingmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551809449771-hpei2ohvsbh1buij6gvanhqtq8p9p3or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNgSq-CqPQa-yvMcfYeQQRv_z2D5UWKvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551809449771-1la2ka733sp9eeascatqtrge2uqore1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
